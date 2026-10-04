@@ -25,6 +25,7 @@ security work. Currently available for **freelance engagements**.
 | Domain | Focus |
 | --- | --- |
 | **Penetration Testing (VAPT)** | Web, network, and application assessments |
+| **Active Directory Pentesting** | Attack paths, Kerberos abuse, privilege escalation, lateral movement |
 | **Application Security** | Secure code review, threat modeling, SDLC security |
 | **DevSecOps** | SAST/DAST, CI/CD hardening, infrastructure-as-code security |
 | **Reverse Engineering** | Malware analysis, binary internals, debugging |
@@ -48,11 +49,12 @@ security work. Currently available for **freelance engagements**.
   <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### Selected Work
+### Current Research
 
-**[OnionScout](https://github.com/Retr0Kali/onionscout)** — Advanced Tor / dark-web
-OSINT toolkit for threat intelligence: multi-engine search with result ranking,
-structured IOC extraction, and LLM-assisted analysis. *(Python)*
+Designing and building a **behaviour-based Windows kernel-mode driver** for
+real-time anti-ransomware defense — monitoring file-system and process activity
+at the kernel level to detect and halt ransomware behaviour before encryption
+spreads. *(C / Windows Driver Kit)*
 
 ---
 
