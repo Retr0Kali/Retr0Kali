@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://app.hackthebox.com/users/984894">Hack The Box</a> &nbsp;•&nbsp;
   <a href="https://medium.com/@Retr07">Medium</a> &nbsp;•&nbsp;
-  <a href="mailto:ehackify.ai@gmail.com">Contact</a>
+  <a href="mailto:Retr0kali0x7@proton.me">Contact</a>
 </p>
 
 ---
