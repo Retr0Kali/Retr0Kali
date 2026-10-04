@@ -29,6 +29,7 @@ security work. Currently available for **freelance engagements**.
 | **Application Security** | Secure code review, threat modeling, SDLC security |
 | **DevSecOps** | SAST/DAST, CI/CD hardening, infrastructure-as-code security |
 | **Reverse Engineering** | Malware analysis, binary internals, debugging |
+| **Wireless Security** | Wi-Fi assessments, rogue AP / evil-twin, protocol attacks |
 | **OT / ICS Security** | SCADA and industrial control system assessments |
 | **Security Automation** | Tooling and AI-assisted security workflows |
 
