@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Retr0+%F0%9F%91%8B;VAPT+%26+Penetration+Tester;DevSecOps+Engineer;Reverse+Engineer+%7C+AppSec;AI+%2B+Security+Tooling+Developer" alt="Retr0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Retr0+%F0%9F%91%8B;VAPT+%26+Penetration+Tester;DevSecOps+Engineer;Reverse+Engineer+%7C+AppSec;OT+%2F+ICS+Security+%7C+SCADA;AI+%2B+Security+Tooling+Developer" alt="Retr0" />
 </h1>
 
 <p align="center">
@@ -24,6 +24,7 @@ tooling that defends them. Available for **freelance security engagements**.
 - 🔁 **DevSecOps** — shifting security left: SAST/DAST, CI/CD hardening, IaC security
 - 🧩 **Reverse Engineering** — malware analysis, binary internals, debugging
 - 🔐 **Application Security** — secure code review, threat modeling
+- 🏭 **OT / ICS Security** — SCADA, industrial control systems, critical infrastructure
 - 🎯 **CyberRange** — hands-on labs, training environments, red-team simulation
 - 🤖 **AI + Dev** — security automation & intelligent tooling (e.g. [OnionScout](https://github.com/Retr0Kali/onionscout))
 - 💼 **Freelancing** — open to VAPT / AppSec / DevSecOps projects
@@ -56,6 +57,14 @@ tooling that defends them. Available for **freelance security engagements**.
   <img src="https://img.shields.io/badge/IDA_Pro-5C2D91?style=for-the-badge&logo=ida&logoColor=white" />
   <img src="https://img.shields.io/badge/radare2-1E1E1E?style=for-the-badge&logo=radare&logoColor=white" />
   <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
+
+**OT / ICS Security**
+<p>
+  <img src="https://img.shields.io/badge/SCADA-D32F2F?style=for-the-badge&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modbus-1A5276?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC-F57C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ICS_CERT-2E4053?style=for-the-badge&logoColor=white" />
 </p>
 
 **Languages & Dev**
@@ -121,6 +130,7 @@ tooling that defends them. Available for **freelance security engagements**.
 <p align="center">
   <a href="mailto:ehackify.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://app.hackthebox.com/users/984894"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://medium.com/@Retr07"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <!-- Replace # with your real profile URLs -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
