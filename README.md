@@ -78,26 +78,6 @@ tooling that defends them. Available for **freelance security engagements**.
 
 ---
 
-### 🔦 Featured Project
-
-<a href="https://github.com/Retr0Kali/onionscout">
-  <img src="https://raw.githubusercontent.com/Retr0Kali/onionscout/main/assets/linkedin-card.png" width="400" align="right" alt="OnionScout" />
-</a>
-
-#### 🧅 [OnionScout](https://github.com/Retr0Kali/onionscout)
-**Advanced Tor / dark-web OSINT toolkit** for threat intelligence & security research.
-
-- 🔍 Multi-engine dark-web search with relevance + consensus ranking
-- 🧠 Structured IOC extraction — wallets, emails, PGP, CVEs
-- 🤖 LLM-powered threat analysis (Anthropic / OpenAI / Gemini / Ollama)
-- ⚡ Concurrent fetching over Tor + circuit rotation + caching
-
-`Python` · `Tor` · `OSINT` · `Threat Intel`
-
-<br clear="right" />
-
----
-
 ### 🧪 Hack The Box
 
 <p align="center">
@@ -108,28 +88,9 @@ tooling that defends them. Available for **freelance security engagements**.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Retr0Kali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Retr0Kali&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0Kali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Retr0Kali&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
-
----
-
 ### 📫 Connect
 
 <p align="center">
-  <a href="mailto:ehackify.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://app.hackthebox.com/users/984894"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
   <a href="https://medium.com/@Retr07"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <!-- Replace # with your real profile URLs -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
